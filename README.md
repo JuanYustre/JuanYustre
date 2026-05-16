@@ -67,6 +67,9 @@ Enterprise operational automation platform integrating Jira, SSH servers, workfl
 ### Stack
 Python • n8n • Jira • Linux • APIs • SSH
 
+<div align="center">
+  <img src="assets/Animation.gif" width="90%">
+</div>
 ---
 
 ## Enterprise Batch Orchestrator
@@ -339,7 +342,9 @@ Plataforma empresarial de automatización operacional integrada con Jira, servid
 ### Stack
 
 Python • n8n • Jira • Linux • APIs • SSH
-
+<div align="center">
+  <img src="assets/automation-demo.gif" width="90%">
+</div>
 ---
 
 ## Enterprise Batch Orchestrator
