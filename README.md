@@ -240,30 +240,6 @@ F --> M[Batch Execution]
 F --> N[Server Automation]
 ```
 
----
-
-# GitHub Analytics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JuanYustre&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanYustre&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-# Contribution Activity
-
-<div align="center">
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JuanYustre&theme=tokyo-night)
-
-</div>
-
----
-
 # Current Focus
 
 - Enterprise Automation
