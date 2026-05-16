@@ -1,12 +1,28 @@
 <div align="center">
+  <img src="assets/75b8a0ff-bd5a-44b5-9132-220c82861fd8.png" width="100%">
+</div>
 
-# Juan Sebastián Yustre (English)
+<br>
+
+<p align="right">
+  <a href="README_ES.md">🇪🇸 Español</a>
+</p>
+
+<div align="center">
+
+# Juan Sebastián Yustre
 
 ### Automation & AI Operations Engineer
 
-Building enterprise automation platforms, AI workflows and operational tooling.
+Building enterprise automation platforms, AI-powered workflows and operational tooling.
 
 <br>
+
+![](https://komarev.com/ghpvc/?username=JuanYustre&color=blueviolet&style=for-the-badge)
+
+![GitHub followers](https://img.shields.io/github/followers/JuanYustre?style=for-the-badge)
+
+<br><br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanyustre/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sebastianyustre@gmail.com)
@@ -15,102 +31,143 @@ Building enterprise automation platforms, AI workflows and operational tooling.
 
 ---
 
-# About Me
+# 🚀 About Me
 
-Engineer focused on enterprise automation, AI integrations, operational tooling and workflow orchestration.
+Engineer specialized in enterprise automation, AI-powered operational tooling and workflow orchestration.
 
-Specialized in building scalable solutions for:
-- Enterprise operations
-- AI-powered workflows
-- Monitoring platforms
-- Process automation
-- Secure integrations
-- Operational dashboards
+Focused on designing scalable platforms integrating:
+- Artificial Intelligence
+- Enterprise APIs
+- Monitoring systems
+- Jira ecosystems
+- AI agents & RAG
+- Operational automation
 - Batch orchestration
-- Jira ecosystem automation
+- Secure enterprise integrations
 
 ---
 
-# Tech Stack
+# 🧠 Enterprise Expertise
 
-## Automation & AI
+- Enterprise Automation
+- AI Workflow Orchestration
+- Operational Tooling
+- Jira Administration
+- SLA & KPI Platforms
+- Monitoring & Observability
+- AI Agents & RAG
+- Enterprise APIs
+- SSH Orchestration
+- PCI Security Automation
+- Batch Processing Platforms
+- Workflow Architecture
+
+---
+
+# ⚡ Tech Stack
+
+<div align="center">
 
 ![Python](https://img.shields.io/badge/Python_Automation-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira_Administration-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n_Workflows-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+
+<br>
+
 ![Power Automate](https://img.shields.io/badge/PowerAutomate_Flows-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude_AI-D97706?style=for-the-badge)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/AI_Prompting-7C3AED?style=for-the-badge)
+
+<br>
+
 ![AI Integrations](https://img.shields.io/badge/AI_Integrations-111827?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![PRM](https://img.shields.io/badge/ACI_PRM/DRM-DC2626?style=for-the-badge)
 ![Monitoring](https://img.shields.io/badge/Monitoring_Platforms-0F766E?style=for-the-badge&logo=datadog&logoColor=white)
 ![Enterprise APIs](https://img.shields.io/badge/Enterprise_APIs-1D4ED8?style=for-the-badge&logo=fastapi&logoColor=white)
 
+</div>
+
 ---
 
-# Featured Projects
+# 🏗️ Featured Projects
 
-## Enterprise Process Automation Platform
+# Enterprise Process Automation Platform
 
 Enterprise operational automation platform integrating Jira, SSH servers, workflows and AI-powered orchestration.
 
-### Features
+### Key Features
+
 - Automated enterprise workflows
 - SSH orchestration
-- Jira-integrated operations
-- Monitoring and alerting
-- AI-assisted automation
+- AI-assisted operational automation
+- Monitoring & alerting
 - Enterprise integrations
+- Jira ecosystem automation
 
 ### Stack
+
 Python • n8n • Jira • Linux • APIs • SSH
 
 <div align="center">
-  <img src="assets/Animation.gif" width="90%">
+  <img src="assets/Animation_3.gif" width="90%">
 </div>
+
 ---
 
-## Enterprise Batch Orchestrator
+# Enterprise Batch Orchestrator
 
-Operational platform for controlled execution of batch processes with real-time monitoring and parallel workers.
+Operational platform for controlled batch execution with parallel workers and real-time monitoring.
 
-### Features
+### Key Features
+
 - Multi-worker execution engine
-- Real-time logs
 - ANSI-aware parser
 - Queue orchestration
-- Operational summaries
+- Real-time operational logs
 - Fail-safe controls
+- Operational summaries
 
 ### Stack
+
 Python • Tkinter • Paramiko • Threading • SSH
 
+<div align="center">
+  <img src="assets/Animation_4.gif" width="90%">
+</div>
+
 ---
 
-## AI HR Operations Portal
+# AI HR Operations Portal
 
-Enterprise HR platform for employee workflow management and AI-assisted operational processes.
+Enterprise HR platform for operational workflows and AI-assisted employee management.
 
-### Features
-- Employee novelty management
-- AI-assisted workflows
-- SQL integration
+### Key Features
+
+- HR operational workflows
+- AI-assisted automation
 - Authentication system
+- SQL integrations
 - Operational dashboards
-- Automated workflows
+- Automated processes
 
 ### Stack
+
 Python • Flask • SQL • n8n • Claude • Docker
+
+<div align="center">
+  <img src="assets/Animation_1.gif" width="90%">
+</div>
 
 ---
 
-## AI Document Agent Platform
+# AI Document Agent Platform
 
-AI-powered document processing and contextual retrieval platform using semantic fragmentation and intelligent querying.
+AI-powered document processing and semantic retrieval platform using RAG pipelines and contextual querying.
 
-### Features
+### Key Features
+
 - RAG pipelines
 - Semantic chunking
 - AI retrieval
@@ -119,32 +176,44 @@ AI-powered document processing and contextual retrieval platform using semantic 
 - Prompt orchestration
 
 ### Stack
+
 Claude • Python • RAG • AI • Document Processing
+
+<div align="center">
+  <img src="assets/Animation_5.gif" width="90%">
+</div>
 
 ---
 
-## SLA & KPI Monitoring Platform
+# SLA & KPI Monitoring Platform
 
-Operational dashboard platform for SLA tracking, KPI monitoring and enterprise reporting.
+Operational dashboard platform for SLA tracking, KPI monitoring and executive reporting.
 
-### Features
+### Key Features
+
 - SLA engine
-- Jira integration
 - Executive dashboards
 - Operational analytics
 - Real-time metrics
 - Automated reporting
+- Jira integrations
 
 ### Stack
+
 Flask • Docker • Python • Jira API • SQL
+
+<div align="center">
+  <img src="assets/Animation.gif" width="90%">
+</div>
 
 ---
 
-## Prisma Clinical System
+# Prisma Clinical System
 
-Enterprise clinical management platform with secure architecture and operational workflows.
+Enterprise clinical management platform focused on secure architecture and operational workflows.
 
-### Features
+### Key Features
+
 - Clinical workflows
 - Secure operations
 - API integrations
@@ -153,15 +222,17 @@ Enterprise clinical management platform with secure architecture and operational
 - Data management
 
 ### Stack
+
 React • SQL • APIs • Enterprise Architecture
 
 ---
 
-## HOMII Real Estate Platform
+# HOMII Real Estate Platform
 
-Digital real estate platform focused on automation, property management and operational workflows.
+Digital real estate platform focused on automation, lead workflows and operational management.
 
-### Features
+### Key Features
+
 - Property management
 - Responsive UI
 - Automation-ready architecture
@@ -170,57 +241,65 @@ Digital real estate platform focused on automation, property management and oper
 - Operational management
 
 ### Stack
+
 Python • HTML • CSS • APIs • Codex
 
 ---
 
-## Jira PCI Security Engine
+# Jira PCI Security Engine
 
-Security automation platform for detecting sensitive PCI data exposure in Jira environments.
+Security automation platform for detecting PCI-sensitive information exposure inside Jira environments.
 
-### Features
+### Key Features
+
 - PAN detection
 - PCI compliance workflows
-- Automated alerts
+- Automated alerting
 - Sensitive data masking
-- Automated deletion
 - Security integrations
+- Automated deletion
 
 ### Stack
+
 Jira • Regex • Automation • Security • PCI DSS
 
 ---
 
-## AI Operations Assistant
+# AI Operations Assistant
 
 AI-powered operational assistant integrated with Teams, Jira and enterprise workflows.
 
-### Features
-- Teams integration
+### Key Features
+
+- Teams integrations
 - AI classification
 - Automated responses
-- Operational alerting
 - Workflow orchestration
+- Operational alerting
 - Enterprise integrations
 
 ### Stack
+
 n8n • Microsoft Graph • Jira • Claude • APIs
 
----
-
-# Professional Impact
-
-- Reduced operational execution from 6h to 1h through automation
-- Built enterprise operational tooling and orchestration systems
-- Implemented AI-assisted operational workflows
-- Integrated Jira, Teams and enterprise APIs
-- Developed monitoring and SLA platforms
-- Automated critical operational processes
-- Designed enterprise-grade workflow architectures
+<div align="center">
+  <img src="assets/Animation_2.gif" width="90%">
+</div>
 
 ---
 
-# Architecture & Operations
+# 📊 Operational Impact
+
+- 80% reduction in manual operational tasks
+- 6h → 1h optimization in batch execution processes
+- Enterprise workflow automation across multiple platforms
+- AI-assisted operational tooling implementation
+- Real-time monitoring and SLA visibility
+- Secure enterprise integrations and orchestration
+
+---
+
+# 🏛️ Architecture & Operations
 
 ```mermaid
 graph TD
@@ -243,332 +322,59 @@ F --> M[Batch Execution]
 F --> N[Server Automation]
 ```
 
-# Current Focus
+---
 
-- Enterprise Automation
-- AI Workflow Orchestration
-- Operational Tooling
-- Monitoring Platforms
-- AI Integrations
-- Jira Ecosystem Automation
-- Enterprise Architecture
-- RAG & AI Agents
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuanYustre&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanYustre&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
-# Contact
+# 🏆 Achievements
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=JuanYustre&theme=tokyonight&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+# 🎯 Current Focus
+
+- Enterprise Automation
+- AI Workflow Orchestration
+- Monitoring Platforms
+- Operational Tooling
+- AI Integrations
+- Enterprise APIs
+- Workflow Architecture
+- AI Agents & RAG
+
+---
+
+# 📫 Contact
 
 ### Location
 Bogotá, Colombia
 
 ### Professional Profiles
-- LinkedIn: https://www.linkedin.com/in/juanyustre/
-- Email: sebastianyustre@gmail.com
-
----
-
-
-
-
-<div align="center">
-
-# Juan Sebastián Yustre Español
-
-### Automation & AI Operations Engineer
-
-Construyendo plataformas de automatización empresarial, flujos de IA y herramientas operacionales.
-
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanyustre/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sebastianyustre@gmail.com)
-
-</div>
-
----
-
-# Sobre Mí
-
-Ingeniero enfocado en automatización empresarial, integraciones con IA, herramientas operacionales y orquestación de workflows.
-
-Especializado en el diseño e implementación de soluciones escalables para:
-
-- Automatización de procesos empresariales
-- Integraciones con inteligencia artificial
-- Plataformas de monitoreo y observabilidad
-- Automatización operacional
-- Integraciones seguras entre plataformas
-- Dashboards ejecutivos y SLA
-- Orquestación de procesos batch
-- Automatizaciones dentro del ecosistema Jira
-- Arquitecturas orientadas a operaciones
-
----
-
-# Stack Tecnológico
-
-## Automatización & IA
-
-![Python](https://img.shields.io/badge/Python_Automation-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira_Administration-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n_Workflows-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Power Automate](https://img.shields.io/badge/PowerAutomate_Flows-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_AI-D97706?style=for-the-badge)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/AI_Prompting-7C3AED?style=for-the-badge)
-![AI Integrations](https://img.shields.io/badge/AI_Integrations-111827?style=for-the-badge&logo=googlecloud&logoColor=white)
-![PRM](https://img.shields.io/badge/ACI_PRM/DRM-DC2626?style=for-the-badge)
-![Monitoring](https://img.shields.io/badge/Monitoring_Platforms-0F766E?style=for-the-badge&logo=datadog&logoColor=white)
-![Enterprise APIs](https://img.shields.io/badge/Enterprise_APIs-1D4ED8?style=for-the-badge&logo=fastapi&logoColor=white)
-
----
-
-# Proyectos Destacados
-
-## Enterprise Process Automation Platform
-
-Plataforma empresarial de automatización operacional integrada con Jira, servidores SSH, workflows y orquestación impulsada por IA.
-
-### Características
-
-- Automatización de procesos empresariales
-- Orquestación mediante SSH
-- Integraciones operacionales con Jira
-- Monitoreo y alertamiento
-- Automatización asistida con IA
-- Integraciones enterprise
-
-### Stack
-
-Python • n8n • Jira • Linux • APIs • SSH
-<div align="center">
-  <img src="assets/automation-demo.gif" width="90%">
-</div>
----
-
-## Enterprise Batch Orchestrator
-
-Plataforma operacional para ejecución controlada de procesos batch con monitoreo en tiempo real y workers paralelos.
-
-### Características
-
-- Motor de ejecución multi-worker
-- Logs en tiempo real
-- Parser ANSI-aware
-- Orquestación de colas
-- Resúmenes operacionales
-- Controles fail-safe
-
-### Stack
-
-Python • Tkinter • Paramiko • Threading • SSH
-
----
-
-## AI HR Operations Portal
-
-Portal corporativo para gestión de novedades de RRHH y automatización operacional asistida por IA.
-
-### Características
-
-- Gestión de novedades
-- Workflows asistidos con IA
-- Integración SQL
-- Sistema de autenticación
-- Dashboards operacionales
-- Automatización de procesos
-
-### Stack
-
-Python • Flask • SQL • n8n • Claude • Docker
-
----
-
-## AI Document Agent Platform
-
-Plataforma de agentes inteligentes para procesamiento documental, fragmentación semántica y consultas contextuales.
-
-### Características
-
-- Pipelines RAG
-- Fragmentación semántica
-- Recuperación contextual
-- Búsqueda inteligente
-- Ingesta multi-documento
-- Orquestación de prompts
-
-### Stack
-
-Claude • Python • RAG • IA • Procesamiento Documental
-
----
-
-## SLA & KPI Monitoring Platform
-
-Plataforma operacional para monitoreo de SLA, KPIs y reporting ejecutivo.
-
-### Características
-
-- Motor SLA
-- Integración Jira
-- Dashboards ejecutivos
-- Analítica operacional
-- Métricas en tiempo real
-- Reportes automáticos
-
-### Stack
-
-Flask • Docker • Python • Jira API • SQL
-
----
-
-## Prisma Clinical System
-
-Sistema clínico empresarial orientado a operaciones médicas y arquitectura segura.
-
-### Características
-
-- Workflows clínicos
-- Operaciones seguras
-- Integraciones API
-- Gestión de pacientes
-- Arquitectura enterprise
-- Administración de datos
-
-### Stack
-
-React • SQL • APIs • Arquitectura Empresarial
-
----
-
-## HOMII Real Estate Platform
-
-Plataforma inmobiliaria digital enfocada en automatización, captación y gestión operacional.
-
-### Características
-
-- Gestión de inmuebles
-- Interfaz responsive
-- Arquitectura preparada para automatización
-- Workflows comerciales
-- Onboarding digital
-- Gestión operacional
-
-### Stack
-
-Python • HTML • CSS • APIs • Codex
-
----
-
-## Jira PCI Security Engine
-
-Motor de seguridad para detección automática de exposición de datos sensibles PCI en Jira.
-
-### Características
-
-- Detección de PAN
-- Flujos PCI DSS
-- Alertamiento automático
-- Enmascaramiento de datos sensibles
-- Eliminación automática
-- Integraciones de seguridad
-
-### Stack
-
-Jira • Regex • Automatización • Seguridad • PCI DSS
-
----
-
-## AI Operations Assistant
-
-Asistente operacional impulsado por IA integrado con Teams, Jira y workflows empresariales.
-
-### Características
-
-- Integración con Teams
-- Clasificación mediante IA
-- Respuestas automáticas
-- Alertamiento operacional
-- Orquestación de workflows
-- Integraciones enterprise
-
-### Stack
-
-n8n • Microsoft Graph • Jira • Claude • APIs
-
----
-
-# Impacto Profesional
-
-- Reducción de ejecuciones operacionales de 6h a 1h mediante automatización
-- Desarrollo de plataformas y herramientas operacionales enterprise
-- Implementación de workflows asistidos con IA
-- Integración de Jira, Teams y APIs empresariales
-- Construcción de plataformas de monitoreo y SLA
-- Automatización de procesos críticos
-- Diseño de arquitecturas orientadas a automatización y operaciones
-
----
-
-# Arquitectura & Operaciones
-
-```mermaid
-graph TD
-
-A[Plataformas Enterprise] --> B[Motor de Automatización]
-B --> C[Integraciones Jira]
-B --> D[Workflows IA]
-B --> E[Plataformas de Monitoreo]
-B --> F[Operaciones SSH]
-B --> G[Enterprise APIs]
-
-D --> H[Claude AI]
-D --> I[ChatGPT]
-D --> J[Sistemas RAG]
-
-E --> K[Dashboards SLA]
-E --> L[Métricas Operacionales]
-
-F --> M[Ejecución Batch]
-F --> N[Automatización de Servidores]
-```
-
----
-
-# Enfoque Actual
-
-- Automatización Empresarial
-- Orquestación de Workflows IA
-- Herramientas Operacionales
-- Plataformas de Monitoreo
-- Integraciones con IA
-- Automatizaciones Jira
-- Arquitectura Enterprise
-- Agentes IA & RAG
-
----
-
-# Contacto
-
-### Ubicación
-Bogotá, Colombia
-
-### Perfiles Profesionales
 
 - LinkedIn: https://www.linkedin.com/in/juanyustre/
 - Email: sebastianyustre@gmail.com
 
 ---
-
-<div align="center">
-
-### Construyendo plataformas escalables de automatización e inteligencia artificial.
-
-</div>
 
 <div align="center">
 
 ### Building scalable automation and AI-powered operational platforms.
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=120&section=footer"/>
