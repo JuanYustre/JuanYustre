@@ -134,9 +134,6 @@ Plataforma operacional para ejecución controlada de procesos batch con workers 
 
 Python • Tkinter • Paramiko • Threading • SSH
 
-<div align="center">
-  <img src="assets/Animation_4.gif" width="90%">
-</div>
 
 ---
 
