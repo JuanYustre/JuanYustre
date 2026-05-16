@@ -209,7 +209,7 @@ Flask • Docker • Python • Jira API • SQL
 
 ---
 
-# Prisma Clinical System
+# Clinical System
 
 Sistema clínico empresarial enfocado en arquitectura segura y workflows operacionales.
 
@@ -226,6 +226,9 @@ Sistema clínico empresarial enfocado en arquitectura segura y workflows operaci
 
 React • SQL • APIs • Arquitectura Empresarial
 
+<div align="center">
+  <img src="assets/Animation_4.gif" width="90%">
+</div>
 ---
 
 # HOMII Real Estate Platform
