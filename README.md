@@ -132,11 +132,6 @@ Operational platform for controlled batch execution with parallel workers and re
 ### Stack
 
 Python • Tkinter • Paramiko • Threading • SSH
-
-<div align="center">
-  <img src="assets/Animation_4.gif" width="90%">
-</div>
-
 ---
 
 # AI HR Operations Portal
