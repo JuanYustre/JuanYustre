@@ -208,7 +208,7 @@ Flask • Docker • Python • Jira API • SQL
 
 ---
 
-# Prisma Clinical System
+# Clinical System
 
 Enterprise clinical management platform focused on secure architecture and operational workflows.
 
@@ -224,6 +224,10 @@ Enterprise clinical management platform focused on secure architecture and opera
 ### Stack
 
 React • SQL • APIs • Enterprise Architecture
+
+<div align="center">
+  <img src="assets/Animation_4.gif" width="90%">
+</div>
 
 ---
 
